@@ -278,10 +278,15 @@ ul.banner-social-buttons {
   margin-top: 0;
 }
 
-ul {
+ul{
   list-style-type: none;
 }
 
+.course li{
+  margin: 0 0 25px;
+  font-size: 18px;
+  line-height: 1.5;
+}
 @media (max-width: 1199px) {
   ul.banner-social-buttons {
     margin-top: 15px;
