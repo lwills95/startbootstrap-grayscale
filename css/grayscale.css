@@ -220,11 +220,11 @@ a:focus {
 .content-section {
   padding-top: 100px;
 }
-.download-section {
+.picture-section {
   width: 100%;
-  padding: 100px 0;
+  height: 1218px;
   color: white;
-  background: url(../img/website-rigging.jpg) no-repeat center center scroll;
+  background: url(../img/website-rigging2.jpg) no-repeat center center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
